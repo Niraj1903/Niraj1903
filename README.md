@@ -207,12 +207,14 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <p align="center">
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/Library-Formik-0A3CFF?logo=formik&logoColor=white" />
+
   
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
