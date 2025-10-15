@@ -187,6 +187,17 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
           </a>
         </p>
       </td>
+      <td width="50%" valign="top" style="padding-right: 1rem;">
+        <a href="https://otp-input-reactjs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=OTP-Input&cache_seconds=0&cache_seconds=0&theme=radical" />
+        </a>
+        <p>
+          <b>🔑 OTP input component with auto-focus, backspace handling, and validation. <br>
+          <a href="https://github.com/Niraj1903/OTP-Input" target="_blank">
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
     </tr>
     
   </table>
