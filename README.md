@@ -75,7 +75,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
   <tr>
     <td width="50%">
       <a href="https://github.com/niraj1903/Showbinge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical&cache_seconds=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical&cache_seconds=0"/>
       </a>
       <p>
         <b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design. <br>
