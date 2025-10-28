@@ -19,10 +19,10 @@
   </a>
 </p>
 
-💻 Passionate **Frontend Developer** | 🚀 React | ⚡ JavaScript | 🎨 TailwindCSS  
+## 💻 Passionate **Frontend Developer** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=61DAFB&labelColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=38B2AC&labelColor=FFFFFF)
 
 I love building modern, responsive web apps and exploring new technologies.  
-Currently diving deeper into **DSA** to strengthen my problem-solving skills.  
+Currently diving deeper into **DSA** to strengthen my problem-solving skills. 
 
 ---
 
