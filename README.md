@@ -130,7 +130,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
     <tr>
       <td width="50%" valign="top" style="padding-right: 1rem;">
         <a href="https://chips-inputs.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Chips-Input&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Chips-Input&theme=radical"/>
         </a>
         <p>
           <b>🏷️ Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify. <br>
