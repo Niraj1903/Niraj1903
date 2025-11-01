@@ -141,7 +141,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       </td>
       <td width="50%" valign="top" style="padding-left: 1rem;">
         <a href="https://accordian-react-js.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=accordion&cache_seconds=0&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=accordion&cache_seconds=0&theme=radical"/>
         </a>
         <p>
           <b>📂 Accordion:</b> A clean, responsive React Accordion component built with Vite and Tailwind CSS, featuring smooth animations and intuitive UI. <br>
