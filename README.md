@@ -115,7 +115,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS. <br>
         <a href="https://github.com/Niraj1903/progressbar" target="_blank">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
     </td>
