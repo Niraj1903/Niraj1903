@@ -91,7 +91,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
       <p>
         <b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimized code and explanations for interview prep. <br>
         <a href="https://github.com/Niraj1903/Leetcode" target="_blank">
-          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
       </p>
     </td>
