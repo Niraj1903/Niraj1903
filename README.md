@@ -170,7 +170,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
         <p>
           <b>✅ Nested Checkbox:</b> A multi-level checkbox tree built with <strong>React + Vite</strong>. <br>
           <a href="https://github.com/Niraj1903/Nested-Checkbox" target="_blank">
-            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
           </a>
         </p>
       </td>
