@@ -217,7 +217,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 <p align="center">
   <!-- Languages & Frameworks -->
-<img src="https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white" />
