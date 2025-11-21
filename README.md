@@ -221,7 +221,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white" />
