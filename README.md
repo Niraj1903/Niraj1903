@@ -256,7 +256,7 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
   <a href="https://niraj-singh-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white"/>
   </a>
 </p>
 
