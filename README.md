@@ -34,10 +34,13 @@
   </a>
 </p>
 
-## 💻 Passionate **Frontend Developer** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=61DAFB&labelColor=FFFFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=FFFFFF) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=38B2AC&labelColor=FFFFFF)
+💻 Passionate MERN Stack Developer
+<span style="display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-top:6px;">
 
-I love building modern, responsive web apps and exploring new technologies.  
-Currently diving deeper into **DSA** to strengthen my problem-solving skills. 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" height="24" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="24" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" height="24" /> </span>
+
+I specialize in building scalable, full-stack web applications using MongoDB, Express.js, React.js, and Node.js.
+Currently focused on improving my problem-solving and DSA skills to write more optimized and efficient code.
 
 ---
 
