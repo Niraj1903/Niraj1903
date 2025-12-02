@@ -5,13 +5,28 @@
 
 # Hi there 👋, I'm Niraj Singh  
 <p align="center">
+  <!-- Portfolio -->
   <a href="https://niraj-singh-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/💼 Portfolio-0A66C2?style=for-the-badge&logoColor=white"/>
   </a>
+  
+  <!-- Resume -->
   <a href="https://drive.google.com/file/d/1uq6cBhnvJegjvglWm7RqOSkw1DtqCqcl/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-333333?style=for-the-badge&logoColor=white"/>
   </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/niraj1903" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Niraj-Singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
