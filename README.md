@@ -27,12 +27,11 @@
 </p>
 
 
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Redux+%7C+TailwindCSS;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=47A248&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;MongoDB+%E2%80%A2+Express+%E2%80%A2+React+%E2%80%A2+Node.js;Full+Stack+Web+Developer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG"/>
 </p>
+
+
 
 💻 Passionate MERN Stack Developer
 <span style="display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-top:6px;">
