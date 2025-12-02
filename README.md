@@ -217,17 +217,20 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
 
 <p align="center">
   <!-- Languages & Frameworks -->
-<img src="https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white" />
-<img src="https://img.shields.io/badge/Library-Formik-0A3CFF?logo=formik&logoColor=white" />
-
-
+  <img src="https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Style-HTML-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Formik-0A3CFF?logo=formik&logoColor=white" />
+  
+  <!-- Node.js, Express, Mongoose -->
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Mongoose-880000?logo=mongoose&logoColor=white" />
   
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
@@ -242,7 +245,14 @@ Currently diving deeper into **DSA** to strengthen my problem-solving skills.
   <img src="https://img.shields.io/badge/Graphics-SVG-FFB13B?logo=svg&logoColor=white" />
   <img src="https://img.shields.io/badge/Code%20Quality-SonarQube-4E9BCD?logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/State-Redux-764ABC?logo=redux&logoColor=white" />
+  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
+
 
 ---
 
