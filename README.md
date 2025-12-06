@@ -226,7 +226,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
       </td>
     </tr>
 
-    <tr>
+  
   <td width="50%" valign="top" style="padding-right: 1rem;">
     <a href="https://livechat-yt-style.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Livechat&cache_seconds=0&theme=radical"/>
@@ -240,7 +240,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
     </p>
   </td>
 
-  <!-- You can leave the second <td> empty or add another project later -->
+ 
   <td width="50%" valign="top" style="padding-left: 1rem;"></td>
 </tr>
 
