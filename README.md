@@ -275,7 +275,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <!-- Node.js, Express, Mongoose -->
   <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Express-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Library-Mongoose-880000?logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Mongoose-880000?logo=mongoose&logoColor=white"/>
   
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
