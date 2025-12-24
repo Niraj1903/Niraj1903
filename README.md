@@ -273,7 +273,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <img src="https://img.shields.io/badge/Library-Formik-0A3CFF?logo=formik&logoColor=white" />
   
   <!-- Node.js, Express, Mongoose -->
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framework-Express-000000?logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Library-Mongoose-880000?logo=mongoose&logoColor=white"/>
   
