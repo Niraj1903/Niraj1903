@@ -282,7 +282,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" />
   
   <!-- Build & Tools -->
-  <img src="https://img.shields.io/badge/Build-CRA-61DAFB?logo=create-react-app&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-CRA-61DAFB?logo=create-react-app&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tools-Babel-F9DC3E?logo=babel&logoColor=black" />
   <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?logo=visual-studio-code&logoColor=white"/>
