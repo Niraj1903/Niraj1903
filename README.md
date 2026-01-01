@@ -306,7 +306,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <img src="https://img.shields.io/badge/State-Redux-764ABC?logo=redux&logoColor=white" />
   
   <!-- Database -->
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white"/>
   
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Tools-Postman-FF6C37?logo=postman&logoColor=white"/>
