@@ -104,7 +104,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Showbinge&theme=radical&cache_seconds=0"/>
       </a>
       <p>
-        <b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design. <br>
+        <b>📺 Showbinge:</b> A Netflix-inspired app for exploring and binge-watching shows with a clean UI and responsive design.<br>
         <a href="https://github.com/Niraj1903/Showbinge" target="_blank">
           <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
