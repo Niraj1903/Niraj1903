@@ -115,7 +115,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=Leetcode&theme=radical&cache_seconds=0"/>
       </a>
       <p>
-        <b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimised code and explanations for interview prep. <br>
+        <b>🧩 Leetcode:</b> A curated collection of LeetCode solutions with optimised code and explanations for interview prep.<br>
         <a href="https://github.com/Niraj1903/Leetcode" target="_blank">
           <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
