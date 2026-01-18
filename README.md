@@ -52,6 +52,28 @@ Currently focused on improving my problem-solving and DSA skills to write more o
 
 ---
 
+## 📜 Certifications  
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/iframe/7d18237e22ee" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-JavaScript%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/3642319f700f" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Java%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/fa2ab01d49fa" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-JavaScript%20(Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/10e3ab305246" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/iframe/f520a08b0eb3" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem Solving (Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niraj1903&cache_seconds=0&theme=algolia&no-frame=true&no-bg=true&margin-w=10&title=Commit,Followers,Stars,PullRequest,Issues,Repositories,Reviews"/>
