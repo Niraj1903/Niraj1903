@@ -229,7 +229,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=AutoComplete&cache_seconds=0&cache_seconds=0&theme=radical"/>
         </a>
         <p>
-          <b>🔍 Autocomplete Search Bar: React search bar with debouncing, caching, and dynamic results using Tailwind CSS. <br>
+          <b>🔍 Autocomplete Search Bar: React search bar with debouncing, caching, and dynamic results using Tailwind CSS.<br>
           <a href="https://github.com/Niraj1903/AutoComplete" target="_blank">
             <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
           </a>
