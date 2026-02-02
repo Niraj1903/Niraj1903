@@ -315,7 +315,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Test-Jest-C21325?logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test-RTL-FF4154?logo=testing-library&logoColor=white"/>
   
   <!-- Build & Tools -->
   <img src="https://img.shields.io/badge/Build-CRA-61DAFB?logo=create-react-app&logoColor=white"/>
