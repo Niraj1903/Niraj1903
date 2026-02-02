@@ -325,7 +325,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <img src="https://img.shields.io/badge/CI-Jenkins-D24939?logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Graphics-SVG-FFB13B?logo=svg&logoColor=white" />
   <img src="https://img.shields.io/badge/Code%20Quality-SonarQube-4E9BCD?logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/State-Redux-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/State-Redux-764ABC?logo=redux&logoColor=white"/>
   
   <!-- Database -->
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white"/>
