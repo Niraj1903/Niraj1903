@@ -161,7 +161,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&repo=progressbar&theme=radical&cache_seconds=0"/>
       </a>
       <p>
-        <b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS. <br>
+        <b>📊 Progress Bar:</b> Animated striped progress bar component built with React and Tailwind CSS.<br>
         <a href="https://github.com/Niraj1903/progressbar" target="_blank">
           <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
