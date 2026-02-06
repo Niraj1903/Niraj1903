@@ -150,7 +150,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=niraj1903&cache_seconds=0&repo=todolist&theme=radical&cache_seconds=0"/>
       </a>
       <p>
-        <b>📝 Todo List:</b> Built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them. <br>
+        <b>📝 Todo List:</b> Built with React and Tailwind CSS. Features include adding tasks, marking them as complete, and deleting them.<br>
         <a href="https://github.com/Niraj1903/todolist" target="_blank">
           <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
         </a>
