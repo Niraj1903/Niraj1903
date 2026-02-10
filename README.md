@@ -183,7 +183,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
         <p>
           <b>🏷️ Chips Input:</b> A responsive tag input component built with <strong>React + Vite + Tailwind CSS</strong>. Add and remove chips easily. Live demo hosted on Netlify.<br>
           <a href="https://github.com/Niraj1903/Chips-Input" target="_blank">
-            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
