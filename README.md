@@ -11,7 +11,7 @@
   </a>
   
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1uq6cBhnvJegjvglWm7RqOSkw1DtqCqcl/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1HMw_zwUbeXbzBKko_Yb37wPzDsW0Jdal/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Resume-333333?style=for-the-badge&logoColor=white"/>
   </a>
   
