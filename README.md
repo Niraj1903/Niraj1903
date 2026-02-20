@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="28" alt="Node.js"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="28" alt="Express.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="28" alt="Express.js"/>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" height="28" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="28" alt="MongoDB"/>&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="28" alt="Postman"/>&nbsp;
