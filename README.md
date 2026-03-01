@@ -271,7 +271,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Tic-Tac-Toe-Game&cache_seconds=0&theme=radical"/>
     </a>
     <p>
-      <b>🎮 Tic Tac Toe Game:</b> A classic Tic Tac Toe game built with <strong>React + Vite</strong>, featuring turn-based gameplay, win & draw detection, and instant reset using clean state management. <br>
+      <b>🎮 Tic Tac Toe Game:</b> A classic Tic Tac Toe game built with <strong>React + Vite</strong>, featuring turn-based gameplay, win & draw detection, and instant reset using clean state management.<br>
       <a href="https://github.com/Niraj1903/Tic-Tac-Toe-Game" target="_blank">
         <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
