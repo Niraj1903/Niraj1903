@@ -240,7 +240,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=OTP-Input&cache_seconds=0&cache_seconds=0&theme=radical"/>
         </a>
         <p>
-          <b>🔑 OTP input component with auto-focus, backspace handling, and validation. <br>
+          <b>🔑 OTP input component with auto-focus, backspace handling, and validation.<br>
           <a href="https://github.com/Niraj1903/OTP-Input" target="_blank">
             <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
           </a>
