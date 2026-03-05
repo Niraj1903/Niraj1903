@@ -216,7 +216,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&cache_seconds=0&repo=Nested-Checkbox&theme=radical"/>
         </a>
         <p>
-          <b>✅ Nested Checkbox:</b> A multi-level checkbox tree built with <strong>React + Vite</strong>.<br>
+          <b>✅ Nested Checkbox:</b> A multi-level checkbox tree built with <strong>React + Vite</strong>. <br>
           <a href="https://github.com/Niraj1903/Nested-Checkbox" target="_blank">
             <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
           </a>
