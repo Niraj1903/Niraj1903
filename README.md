@@ -306,7 +306,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <img src="https://img.shields.io/badge/Style-CSS-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Library-Axios-5A29E4?logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Library-Formik-0A3CFF?logo=formik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-Formik-0A3CFF?logo=formik&logoColor=white"/>
   
   <!-- Node.js, Express, Mongoose -->
   <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white"/>
