@@ -205,7 +205,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Pagination&cache_seconds=0&theme=radical"/>
         </a>
         <p>
-          <b>📄 Pagination:</b> React Pagination UI using dummy JSON data and styled with Tailwind CSS. Built with Vite. <br>
+          <b>📄 Pagination:</b> React Pagination UI using dummy JSON data and styled with Tailwind CSS. Built with Vite.<br>
           <a href="https://github.com/Niraj1903/Pagination" target="_blank">
             <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
           </a>
