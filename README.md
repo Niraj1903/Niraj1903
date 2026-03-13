@@ -255,7 +255,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
     </a>
     <p>
       <b>💬 Live Chat:</b> A fully responsive live chat UI inspired by YouTube Live Chat.  
-      Built using <strong>React + Vite + Redux Toolkit + Tailwind CSS</strong> with auto-generated real-time messages. <br>
+      Built using <strong>React + Vite + Redux Toolkit + Tailwind CSS</strong> with auto-generated real-time messages.<br>
       <a href="https://github.com/Niraj1903/Livechat" target="_blank">
         <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
