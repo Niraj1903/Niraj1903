@@ -341,7 +341,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niraj1903">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nirajsingh1903@protonmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
