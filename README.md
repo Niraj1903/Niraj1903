@@ -251,7 +251,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
   <tr>
   <td width="50%" valign="top" style="padding-right: 1rem;">
     <a href="https://livechat-yt-style.netlify.app/" target="_blank" style="display: block; margin-bottom: 0.5rem;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Livechat&cache_seconds=0&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj1903&repo=Livechat&cache_seconds=0&theme=radical" />
     </a>
     <p>
       <b>💬 Live Chat:</b> A fully responsive live chat UI inspired by YouTube Live Chat.  
