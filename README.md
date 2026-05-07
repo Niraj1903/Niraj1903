@@ -68,7 +68,7 @@ Currently focused on improving my problem-solving and DSA skills to write more o
     <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/iframe/f520a08b0eb3" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Problem Solving (Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-Problem Solving (Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
