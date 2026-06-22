@@ -79,6 +79,10 @@ Currently focused on improving my problem-solving and DSA skills to write more o
     <img src="https://img.shields.io/badge/Coursera-Claude%20Code%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
   </a>
 
+  <a href="https://coursera.org/verify/2K9C8EPJR4SZ" target="_blank">
+    <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  </a>
+
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Neurealm-Level%203%20AI%20Powered%20SDLC-EA004F?style=for-the-badge&logo=artificialintelligence&logoColor=white"/>
   </a>
