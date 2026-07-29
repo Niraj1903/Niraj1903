@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Niraj%20Singh%20🚀&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Niraj%20Singh%20🚀&fontSize=50&fontColor=ffffff"/>
 </p>
 
 # Hi there 👋, I'm Niraj Singh  
