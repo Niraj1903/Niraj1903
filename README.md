@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Portfolio -->
   <a href="https://niraj-singh-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 Portfolio-0A66C2?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼 Portfolio-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
   
   <!-- Resume -->
